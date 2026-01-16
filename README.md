@@ -25,6 +25,7 @@
 </div>
 <br/>
 <br/>
+
 ### 👩‍💻 About Me
 
 Hi! I am a passionate **Software Engineering Student** at **COMSATS University, Abbottabad** and successfully completed my 3rd Semester. 
@@ -75,14 +76,19 @@ Here are some of the complex systems I have engineered:
   
   <img src="https://github-readme-stats.vercel.app/api?username=noorjadoonn&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
   <br/>
+  <br/>
+  
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjadoonn&layout=compact&theme=nightowl&hide_border=true&langs_count=6" height="180" alt="languages graph" />
 </div>
-
+<br/>
 <br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorjadoonn&theme=nightowl&hide_border=true" alt="streak stats" />
+
+  <br/>
+  <br/>
 </div>
 
 <br/>

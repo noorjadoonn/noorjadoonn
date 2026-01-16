@@ -77,5 +77,6 @@ Here are some of the complex systems I have engineered:
 <div align="center">
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
   <br/>
-  <b>Thanks for visiting! Let's build something amazing together. 🚀</b>
+ <div allign="center">
+  <b>Thanks for visiting! Let's build something amazing together. 🚀</b></div>
 </div>

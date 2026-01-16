@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+There!+%F0%9F%91%8B+I'm+Noor+Ul+Ain+Jadoon;Software+Engineering+Student;Java,+C,+Web+%26+Python+Dev;Building+Logic-Heavy+Applications" alt="Typing SVG" />
+  <h1>Hi 👋, I'm Noor Ul Ain Jadoon</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=22&pause=1000&color=9EFEFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+Logic-Heavy+Applications;Java,+C,+Web+%26+Python+Developer;Consistent+High+Achiever+(3.92+GPA)" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -61,15 +62,15 @@ Here are some of the complex systems I have engineered:
 <div align="center">
   <p><i>(If these graphs look broken, please wait a moment. They update live!)</i></p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=noorjadoonn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noorjadoonn&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjadoonn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjadoonn&layout=compact&theme=nightowl&hide_border=true&langs_count=6" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorjadoonn&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorjadoonn&theme=nightowl&hide_border=true" alt="streak stats" />
 </div>
 
 <br/>

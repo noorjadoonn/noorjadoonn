@@ -1,7 +1,11 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Hi%20👋%20I'm%20NOOR%20UL%20AIN%20JADOON&height=100&fontSize=38&fontAlign=50&fontAlignY=40&font=Archivo%20Black" alt="Static Header" />
+<h3>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm</h3>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&fontColor=ffffff&text=NOOR%20UL%20AIN%20JADOON&height=100&fontSize=55&fontAlign=50&fontAlignY=50&font=Archivo%20Black" alt="NOOR UL AIN JADOON" />
+  
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=22&pause=1000&color=9EFEFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+Logic-Heavy+Applications;Java,+C,+Web+%26+Developer" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=22&pause=1000&color=9EFEFF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Building+Logic-Heavy+Applications;Java,+C,+Web+%26+Developer" alt="Typing SVG" />
 </div>
 
 <br/>

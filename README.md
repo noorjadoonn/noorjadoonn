@@ -1,5 +1,6 @@
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B,+I'm+NOOR+UL+AIN+JADOON" alt="Typing SVG" />
+ <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Hi%20👋%20I'm%20NOOR%20UL%20AIN%20JADOON&height=100&fontSize=38&fontAlign=50&fontAlignY=40&font=Archivo%20Black" alt="Static Header" />
+  <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=22&pause=1000&color=9EFEFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+Logic-Heavy+Applications;Java,+C,+Web+%26+Developer" alt="Typing SVG" />
 </div>
 

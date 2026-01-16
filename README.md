@@ -41,7 +41,7 @@ I work with a variety of languages and tools to bring ideas to life:
 | **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | **Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Frameworks** | ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
-| **Tools & DB** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
+| **Tools & DB** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) | (https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=visual studio&logoColor=white) ![VS Code]
 
 ---
 
@@ -53,7 +53,6 @@ Here are some of the complex systems I have engineered:
 | :--- | :--- | :--- | :--- |
 | **☕ Vellum** | `Desktop App` | `Java` `JavaFX` `MySQL` | A real-time chat application featuring custom GUI, secure user authentication, and persistent database storage. |
 | **📂 Sortify** | `Automation` | `Java` `File I/O` | An intelligent file organization tool that automatically cleans up messy directories based on file extensions in milliseconds. |
-| **👁️ Face Rec.** | `AI System` | `Python` `OpenCV` | A smart attendance system that detects faces in real-time and logs entry times automatically. |
 
 ---
 
@@ -76,6 +75,9 @@ Here are some of the complex systems I have engineered:
 <br/>
 <div align="center">
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+  <br/>
+  <br/>
+  <br/>
   <br/>
  <div allign="center">
   <b>Thanks for visiting! Let's build something amazing together. 🚀</b></div>

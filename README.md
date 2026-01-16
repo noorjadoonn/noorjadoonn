@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 weight= 1900>Hi 👋, I'm Noor Ul Ain Jadoon</h1>
+  <h1><b>Hi 👋, I'm Noor Ul Ain Jadoon</h1></b>
   <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=22&pause=1000&color=9EFEFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+Logic-Heavy+Applications;Java,+C,+Web+%26+Python+Developer;Consistent+High+Achiever+(3.92+GPA)" alt="Typing SVG" />
 </div>
 

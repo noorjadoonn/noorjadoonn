@@ -1,48 +1,70 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Noor Ul Ain;Software+Engineering+Student;Java,+C+%26+Web+Developer;Building+Logic-Heavy+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+There!+%F0%9F%91%8B+I'm+Noor+Ul+Ain+Jadoon;Software+Engineering+Student;Java,+C,+Web+%26+Python+Dev;Building+Logic-Heavy+Applications" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
+  <a href="https://www.linkedin.com/in/noor-ul-ain-jadoon/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
-<br/><br/>
+<br/>
+<div align="center">
+  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+</div>
+<br/>
 
 ### 👩‍💻 About Me
-I am a Software Engineering student at **COMSATS University, Abbottabad** with a strong grip on **Backend Logic (Java/C)** and **Web Development**. I don't just write code; I build robust tools and solve complex problems.
 
-- 🎓 **Academics:** High Achiever with high goals in my mind.
-- 🛠️ **Tech Stack:** Java, C, Web Dev, JavaFX, MySQL.
-- 🔭 **I’m currently working on:** Building scalable desktop & web architectures.
-- ⚡ **Fun fact:** I built a full Chat App (Vellum) just to master Socket Programming with teammates!
+Hi! I am a passionate **Software Engineering Student** at **COMSATS University, Abbottabad**. 
 
----
+I don't just write code; I engineer solutions. My journey started with C++, moved to mastering **Object-Oriented Programming (Java)**, and now I am building full-scale desktop and web applications. I love diving deep into backend logic, database management, and automation tools.
 
-### 🚀 Top Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **☕ Vellum** | `Java` `JavaFX` `MySQL` | A real-time Desktop Chat Application with a custom GUI, secure login, and database integration. |
-| **📂 Sortify** | `Java` `File I/O` | An intelligent File Automation tool that organizes messy directories by file extensions instantly. |
-| **🌐 Web Portfolio** | `HTML` `CSS` `JS` | (Upcoming) A responsive personal portfolio website to showcase my engineering journey. |
+* 🎓 **Academics:** Consistent High Achiever with high goals.
+* 🔭 **Currently Working on:** Creating scalable architectures for Desktop Apps.
+* 🌱 **Learning:** Advanced Data Structures, Algorithms & Design Patterns.
+* 💬 **Ask me about:** JavaFX, Socket Programming, and Computer Vision.
 
 ---
 
-<br/>
+### 🛠️ My Tech Stack
 
-### 📊 GitHub Stats
+I work with a variety of languages and tools to bring ideas to life:
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frameworks** | ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+| **Tools & DB** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
+
+---
+
+### 💻 Signature Projects
+
+Here are some of the complex systems I have engineered:
+
+| Project | Type | Tech Stack | Description |
+| :--- | :--- | :--- | :--- |
+| **☕ Vellum** | `Desktop App` | `Java` `JavaFX` `MySQL` | A real-time chat application featuring custom GUI, secure user authentication, and persistent database storage. |
+| **📂 Sortify** | `Automation` | `Java` `File I/O` | An intelligent file organization tool that automatically cleans up messy directories based on file extensions in milliseconds. |
+| **👁️ Face Rec.** | `AI System` | `Python` `OpenCV` | A smart attendance system that detects faces in real-time and logs entry times automatically. |
+
+---
+
+### 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noorjadoonn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="stats graph" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjadoonn&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+  <p><i>(If these graphs look broken, please wait a moment. They update live!)</i></p>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=noorjadoonn&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorjadoonn&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages graph" />
 </div>
 
 <br/>
@@ -51,10 +73,9 @@ I am a Software Engineering student at **COMSATS University, Abbottabad** with a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noorjadoonn&theme=radical&hide_border=true" alt="streak stats" />
 </div>
 
-<br/><br/>
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/noor-ul-ain-jadoon/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<br/>
+<div align="center">
+  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+  <br/>
+  <b>Thanks for visiting! Let's build something amazing together. 🚀</b>
 </div>
